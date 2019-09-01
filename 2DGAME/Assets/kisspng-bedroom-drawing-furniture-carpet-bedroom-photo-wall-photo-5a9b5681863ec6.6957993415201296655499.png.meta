@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: dbde68309af85dc42830cdd57fb6be1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8845622364693557360
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_0
+  - first:
+      213: -8241423701452410129
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_1
+  - first:
+      213: 6129549119420303643
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_2
+  - first:
+      213: 7731035653952222148
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_3
+  - first:
+      213: -4679464315676148285
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_4
+  - first:
+      213: -3980847049299307135
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_5
+  - first:
+      213: -2811803208207329854
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_6
+  - first:
+      213: 418290969566935192
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_7
+  - first:
+      213: -7796696045802198400
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_8
+  - first:
+      213: 1548930643286730853
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_9
+  - first:
+      213: 1834499364942307980
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_10
+  - first:
+      213: -3100652311043499755
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_11
+  - first:
+      213: 6551669360811180180
+    second: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_0
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1103
+        width: 271
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9f9d716831dd54daf0e3502ab602bd
+      internalID: 8845622364693557360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 896
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f6c2e6f77b578449bd0d0d33c3929a
+      internalID: -8241423701452410129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 752
+        width: 187
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ea3febb9b71447bb1ad5ceee171ce
+      internalID: 6129549119420303643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 831
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdfcd5f048059c4ebeffda7b739b90a
+      internalID: 7731035653952222148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 824
+        width: 259
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14326bb4be169734e9a954360a47ed93
+      internalID: -4679464315676148285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 532
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e1f1f83e2ba5d47ac4166773d75377
+      internalID: -3980847049299307135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 439
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6dfb5404e2a7c49a184619e827b28f
+      internalID: -2811803208207329854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 654
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f6106d202901340b0f9ae91d6c6ac3
+      internalID: 418290969566935192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_8
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 700
+        width: 438
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a9f70685ba594ea6f71d94bdcf30d
+      internalID: -7796696045802198400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 164
+        width: 234
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4f9e21e24ee44c904db49379c9c96
+      internalID: 1548930643286730853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 166
+        width: 998
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d8505f5f8907499962165b499223e
+      internalID: 1834499364942307980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_11
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 164
+        width: 234
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf62848ee113f459248bcd10c05b0a
+      internalID: -3100652311043499755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-bedroom-drawing-furniture-carpet-bedroom-photo-wall-photo-5a9b5681863ec6.6957993415201296655499_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 1340
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb5db1890a5733408b224347389e5da
+      internalID: 6551669360811180180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
